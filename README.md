@@ -1,8 +1,10 @@
 # Sleft
 
-This is my own reskined version of [Left](https://github.com/holman/left) by [Zach Holman](http://zachholman.com/)
+This is my own reskinned version of [Left](https://github.com/holman/left) by [Zach Holman](http://zachholman.com/)
 
 If you want to see this theme in action visit http://samlambert.com/
+
+See below for Zach's instructions on how to customize the theme. ✨
 
 # Left
 
